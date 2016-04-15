@@ -1,0 +1,15 @@
+*.dll
+*.exe
+*.exp
+*.ilk
+*.lib
+*.ncb
+*.log
+*.pdb
+*.manifest
+*.bsc
+*.vcproj.*.user
+*.orig
+*.db
+[Dd]ebug
+[Rr]elease
